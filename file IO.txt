@@ -1,0 +1,12 @@
+how to open a file 
+importance of cloinga file what can python do to the specific file
+use of text_file=open("","") and text_file.close()
+Importance of the with statement
+How to define the mode of any file
+text_file=open("file.txt",mode="r",encode="utf-8")
+what does r,a,w stand for 
+How to read a file using the read()-NB print(text_file.read()) on its disadvantage
+How to read single line files
+How to write or append in a specific file.
+NB with open ('text_file.txt',mode ='a/w',encode= 'utf-8') as log_file:
+  log_file.write /append('text_file.txt")
